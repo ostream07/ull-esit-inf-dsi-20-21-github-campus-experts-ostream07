@@ -135,7 +135,7 @@ and check to make sure that only the key(s) you wanted were added.
 ```
 Si todo ha ido bien podremos iniciar sesión en nuestra MV de la siguiente manera:
 ```
-saul@DESKTOP-F06QRH9:~$ ssh usuario@iaas-dsi2
+saul@DESKTOP-F06QRH9:~$ ssh usuario@dsi-30
 Welcome to Ubuntu 18.04.5 LTS (GNU/Linux 4.15.0-135-generic x86_64)
 
  * Documentation:  https://help.ubuntu.com
